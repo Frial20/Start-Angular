@@ -1,0 +1,47 @@
+.footer{
+    width: 100%;
+    background-color: #1A5F7A;
+    padding: 60px;
+    height: 200px;
+    text-align: center;
+}
+section
+{
+    float: left;
+    margin-left: 50px;
+    width: 25%;
+}
+h3{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    color: white;
+}
+span{
+    color: white;
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+/*span{
+    color: white;
+    border: 1px solid white;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 10px;
+    background-color: #1A5F7A;
+}*/
+.dower{
+    background-color: #002B5B;
+    text-align: center;
+    height: 40px;
+}
+.dower p {
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+
+}

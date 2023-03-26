@@ -1,0 +1,37 @@
+.home{
+    background-color: #159895;
+    height: 650px;
+      
+}
+.home .container{
+    text-align: center;
+    bottom: 50%;
+}
+.home .container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 120px;
+
+}
+.home .container h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+}
+.home .container .line{
+    background-color: white;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+}
+#line{
+    margin-left: 279px;
+    background-color: white;
+    border: 1px solid white;
+    color: white;
+    float: left;
+}
+.home .container h4{
+    color: white;
+}

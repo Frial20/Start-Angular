@@ -1,0 +1,34 @@
+.portf{
+    height: 600px;
+}
+.contianer{
+    text-align: center;
+    margin: 10px;
+    padding: 30px;
+}
+.contianer h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+#line{
+    color: #263159;
+    border: 1px solid #263159;
+    background-color:#263159 ;
+    float: left;
+    margin-left: 470px;
+}
+.card{
+    float: left;
+    margin: 25px;
+    margin-left: 80px;
+
+}
+.card:hover{
+    background-color: #159895;
+    cursor: pointer;
+    border: 1px solid  #159895;
+    
+}
+.card:hover p{
+    color: #159895;
+}
